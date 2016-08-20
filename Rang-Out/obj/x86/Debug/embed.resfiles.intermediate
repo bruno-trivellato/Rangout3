@@ -1,0 +1,11 @@
+App.xbf
+AppShell.xbf
+Controls\PageHeader.xbf
+Styles\Styles.xbf
+Styles\TenFootStylesheet.xbf
+Views\BlankPage1.xbf
+Views\LandingPage.xbf
+Views\LoginPage.xbf
+Views\MainPage.xbf
+Views\MapPage.xbf
+Views\TodoItemPage.xbf
